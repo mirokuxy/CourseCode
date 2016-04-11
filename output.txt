@@ -1,0 +1,156 @@
+X-O [0] [X:O Win] 
+OO-
+-X-
+
+  XXO [1] [O:O Win] 
+  OO-
+  -X-
+
+    XXO [2] [X:O Win] 
+    OOO
+    -X-
+
+    XXO [2] [X:O Win] 
+    OO-
+    OX-
+
+    XXO [2] [X:O Win] 
+    OO-
+    -XO
+
+      XXO [3] [O:O Win] 
+      OOX
+      -XO
+
+        XXO [4] [X:O Win] 
+        OOX
+        OXO
+
+      XXO [3] [O:O Win] 
+      OO-
+      XXO
+
+        XXO [4] [X:O Win] 
+        OOO
+        XXO
+
+  X-O [1] [O:O Win] 
+  OOX
+  -X-
+
+    XOO [2] [X:Draw] 
+    OOX
+    -X-
+
+      XOO [3] [O:Draw] 
+      OOX
+      XX-
+
+        XOO [4] [X:Draw] 
+        OOX
+        XXO
+
+      XOO [3] [O:O Win] 
+      OOX
+      -XX
+
+        XOO [4] [X:O Win] 
+        OOX
+        OXX
+
+    X-O [2] [X:O Win] 
+    OOX
+    OX-
+
+    X-O [2] [X:Draw] 
+    OOX
+    -XO
+
+      XXO [3] [O:O Win] 
+      OOX
+      -XO
+
+        XXO [4] [X:O Win] 
+        OOX
+        OXO
+
+      X-O [3] [O:Draw] 
+      OOX
+      XXO
+
+        XOO [4] [X:Draw] 
+        OOX
+        XXO
+
+  X-O [1] [O:O Win] 
+  OO-
+  XX-
+
+    XOO [2] [X:X Win] 
+    OO-
+    XX-
+
+      XOO [3] [O:Draw] 
+      OOX
+      XX-
+
+        XOO [4] [X:Draw] 
+        OOX
+        XXO
+
+      XOO [3] [O:X Win] 
+      OO-
+      XXX
+
+    X-O [2] [X:O Win] 
+    OOO
+    XX-
+
+    X-O [2] [X:Draw] 
+    OO-
+    XXO
+
+      XXO [3] [O:O Win] 
+      OO-
+      XXO
+
+        XXO [4] [X:O Win] 
+        OOO
+        XXO
+
+      X-O [3] [O:Draw] 
+      OOX
+      XXO
+
+        XOO [4] [X:Draw] 
+        OOX
+        XXO
+
+  X-O [1] [O:O Win] 
+  OO-
+  -XX
+
+    XOO [2] [X:X Win] 
+    OO-
+    -XX
+
+      XOO [3] [O:O Win] 
+      OOX
+      -XX
+
+        XOO [4] [X:O Win] 
+        OOX
+        OXX
+
+      XOO [3] [O:X Win] 
+      OO-
+      XXX
+
+    X-O [2] [X:O Win] 
+    OOO
+    -XX
+
+    X-O [2] [X:O Win] 
+    OO-
+    OXX
+
